@@ -3,6 +3,8 @@
 	flex-wrap: wrap;
 	justify-content: space-around;
 	align-content: space-around;
+	margin-top: 50px;
+
 }
 
 .griditem {
