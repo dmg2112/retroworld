@@ -4,7 +4,7 @@
 }
 
 *{
-	font-family: Retrofont;
+	font-family: Retrofont!important;
 }
 
 *{--retroworld-background-color:#17351c;}
