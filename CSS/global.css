@@ -11,12 +11,12 @@
 *{--retroworld-text-color:#cbedd1;}
 
 h1, h2, h3, p, .text{
-	color: var(--retroworld-text-color);
+	text: #cbedd1;
 	clear: both;
 }
 
 body{
-	background: var(--retroworld-background-color);
+	background-color: #17351c;
 	height:100%;
 }
 
