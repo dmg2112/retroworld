@@ -44,6 +44,7 @@ margin-top: 50px;
   padding-top: 25px;
   padding-bottom: 25px;
   z-index: 0;
+  image-rendering: crisp-edges!important;
 }
 .sidebar_title{
   text-align: center;
